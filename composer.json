@@ -1,0 +1,6 @@
+{
+	"name": "drupal-package/easing",
+	"description": "Allows to clone the gdsmith/jquery.easing repository",
+	"type": "drupal-library",
+	"keywords": ["plugin", "jquery.easing"]
+}
